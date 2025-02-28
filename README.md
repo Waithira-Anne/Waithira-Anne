@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
